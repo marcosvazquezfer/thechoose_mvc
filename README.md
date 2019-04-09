@@ -8,5 +8,5 @@ Esta aplicación se ha desarrollado utilizando [PHP](https://www.php.net/) sigui
 
 ## Autores ✒️
 
-Marcos Vázquez Fernández
-Lara Souto Alonso 
+Marcos Vázquez Fernández y Lara Souto Alonso 
+
